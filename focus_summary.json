@@ -1,15 +1,15 @@
 {
-  "period_start": "2026-10-08T12:43:15.870558+05:30",
-  "period_end": "2026-10-09T12:43:15.870558+05:30",
+  "period_start": "2026-10-08T15:16:14.213781+05:30",
+  "period_end": "2026-10-09T15:16:14.213781+05:30",
   "period_minutes": 1440.0,
-  "window_events_received": 1385,
-  "afk_events_received": 44,
-  "confirmed_afk_minutes": 186.4,
+  "window_events_received": 1295,
+  "afk_events_received": 36,
+  "confirmed_afk_minutes": 171.21,
   "developer_applications": {
-    "Chrome": 230.93,
-    "VS Code": 48.4
+    "Chrome": 190.45,
+    "VS Code": 87.78
   },
-  "total_tracked_application_minutes": 279.33,
-  "unaccounted_or_excluded_minutes": 974.27,
+  "total_tracked_application_minutes": 278.23,
+  "unaccounted_or_excluded_minutes": 990.56,
   "note": "Application time is estimated from foreground-window events. AFK intervals are excluded. Applications outside the allow-list and periods without covered events are not counted as developer-tool time. This does not prove that all tracked time was productive work."
 }
